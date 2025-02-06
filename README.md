@@ -45,14 +45,16 @@ Ce projet est un simulateur de formulaire d'authentification permettant aux util
 2. Ouvrez deux fenêtres de terminal, en vous assurant que vous êtes dans le dossier du projet.
 3. Dans le premier terminal, exécutez les commandes suivantes :
 
-```cd backend
+```
+cd backend
 npm i
 npm run dev
 ```
 
 Dans le deuxième terminal, exécutez les commandes suivantes :
 
-```cd frontend
+```
+cd frontend
 npm i
 npm run dev
 ```
@@ -75,14 +77,16 @@ Este projeto é um simulador de formulário de autenticação que permite aos us
 2. Abra duas janelas de terminal, certificando-se de que está na pasta do projeto.
 3. No primeiro terminal, execute os seguintes comandos:
 
-```cd backend
+```
+cd backend
 npm i
 npm run dev
 ```
 
 No segundo terminal, execute os seguintes comandos:
 
-```cd frontend
+```
+cd frontend
 npm i
 npm run dev
 ```
