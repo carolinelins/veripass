@@ -12,14 +12,16 @@ This project is an authentication form simulator that allows users to log in, re
 2. Open two terminal windows, making sure you are in the project folder.
 3. In the first terminal, run the following commands:
 
-```cd backend
+```
+cd backend
 npm i
 npm run dev
 ```
 
 In the second terminal, run the following commands:
 
-```cd frontend
+```
+cd frontend
 npm i
 npm run dev
 ```
